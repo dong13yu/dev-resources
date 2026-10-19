@@ -208,6 +208,14 @@ export const resources: Resource[] = [
         keywords: ['ai', 'database', 'sql', 'natural language', 'analytics', 'dashboard'],
     },
     {
+        name: 'AI Genjutsu',
+        description:
+            'AI video editor for software demos and product videos: transform existing clips with a reference character while preserving motion, timing, and camera movement.',
+        categories: ['AI', 'Video', 'Editor'],
+        url: 'https://aigenjutsu.org',
+        keywords: ['video editor', 'software demos', 'product videos', 'character replacement', 'AI video editing'],
+    },
+    {
         name: 'AI Jobs',
         description: 'Find all AI (Artificial Intelligence) jobs in one place.',
         categories: ['AI', 'Job'],
